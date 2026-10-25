@@ -1,0 +1,24 @@
+# 21 Venezolano
+
+Juego web de 21 venezolano con partidas locales y modo de mesa en vivo.
+
+## Requisitos
+
+- Node.js compatible con las versiones actuales de Vite y TypeScript
+- npm
+
+## Desarrollo
+
+```sh
+npm install
+npm run dev
+```
+
+## Comandos
+
+- `npm run build`: compila la aplicación y ejecuta las migraciones de base de datos.
+- `npm run typecheck`: verifica los tipos de TypeScript.
+- `npm test`: ejecuta las pruebas automatizadas.
+- `npm run lint`: revisa el estilo y errores de código.
+
+Configura localmente las variables de entorno necesarias para servicios externos. No se incluyen credenciales en este repositorio.
